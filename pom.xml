@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>phishing-detector</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>phishing-detector</name>
+	<description>REST API that assesses phishing risk in suspicious messages</description>
 	<url/>
 	<licenses>
 		<license/>
